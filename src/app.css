@@ -1,4 +1,9 @@
 .container {
     display: flex;
-    margin-top: 10px;
+    background-color: #516df5;
+}
+.content {
+    flex: 5;
+    border-radius: 1em 0em 0em 1em;
+    background-color: #f8f9fd;
 }
